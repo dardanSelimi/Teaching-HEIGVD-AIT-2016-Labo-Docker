@@ -1,7 +1,7 @@
 #AIT - Labo 04 - Virtualization
 ## ALBASINI Romain, SELIMI Dardan
 
-![Architecture](../log/task6/6.1_port.PNG)
+![Architecture](../logs/task6/6.1_port.PNG)
 
 
 ##Introduction
